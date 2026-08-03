@@ -1,0 +1,13 @@
+input: .
+output: .retype
+url: https://venkeyz.github.io/ultimate-linux-guide
+branding:
+  title: Ultimate Linux Guide
+links:
+  - text: Source
+    link: https://github.com/venkeyz/ultimate-linux-guide
+    icon: mark-github
+    icon: home
+  - text: Issues
+    link: https://github.com/venkeyz/ultimate=linux-guide/issues
+    icon: comment-discussion
