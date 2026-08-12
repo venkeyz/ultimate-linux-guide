@@ -3,3 +3,7 @@
 > test
 
 - [-Index-](https://venkeyz.github.io/ultimate-linux-guide/index.md): -Index-
+
+## Steam Hardware
+
+- [RPC](https://venkeyz.github.io/ultimate-linux-guide/steam-hardware/rpc.md): There are two methods of getting RPC onto Steam Hardware,
