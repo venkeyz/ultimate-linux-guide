@@ -1,6 +1,6 @@
 ---
 title: RPC
-icon: discord
+icon: brand-discord
 order: -6
 ---
 There are two methods of getting RPC onto Steam Hardware,
